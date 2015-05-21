@@ -1,4 +1,7 @@
-.jumbotron{
+body{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/236x/18/f6/1a/18f61aab21c9a7b1dc5f9db112893dd0.jpg");
+  
+  .jumbotron{
   background-image: url("http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png");
   background-size: cover;
 }
