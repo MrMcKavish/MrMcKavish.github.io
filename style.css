@@ -1,15 +1,16 @@
-body{
 
   .jumbotron{
   background-image: url("http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png");
   background-size: cover;
 }
+body{
 h1 {
     text-align: center;
 }
 h4 {
     text-align: center;
 }
+
 IMG.displayed {
     display: block;
     margin-left: auto;
