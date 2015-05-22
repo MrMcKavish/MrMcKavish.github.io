@@ -1,12 +1,4 @@
 body{
-
-
-background-image: url("http://pds.exblog.jp/pds/1/200608/01/41/d0076741_12343917.jpg");
-}
-.jumbotron{
-  background-image: url("http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png");
-  background-size: cover;
-
   nav {
   background-color: #fff;
   border: 5px solid #dedede;
@@ -70,15 +62,24 @@ background-image: url("http://pds.exblog.jp/pds/1/200608/01/41/d0076741_12343917
           display: block;
           opacity: 0.5;
           visibility: visible;
-
-        }
-}
-body{
 h1 {
     text-align: center;
 }
 h4 {
     text-align: center;
+        }
+}
+}
+
+
+background-image: url("http://pds.exblog.jp/pds/1/200608/01/41/d0076741_12343917.jpg");
+}
+.jumbotron{
+  background-image: url("http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png");
+  background-size: cover;
+
+  
+
 }
 
 
