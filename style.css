@@ -1,3 +1,12 @@
+body{
+
+
+background-image: url("http://upload.wikimedia.org/wikipedia/commons/f/f4/Lord_Howe_Island_view_to_Admiralty_Islands.JPG");
+
+  
+  
+}
+
 
   .jumbotron{
   background-image: url("http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png");
@@ -13,11 +22,3 @@ h4 {
 
 
 
-body{
-
-
-background-image: url("http://upload.wikimedia.org/wikipedia/commons/f/f4/Lord_Howe_Island_view_to_Admiralty_Islands.JPG");
-
-  
-  
-}
