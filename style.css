@@ -2,6 +2,10 @@ body{
 
 background-image: url("http://pds.exblog.jp/pds/1/200608/01/41/d0076741_12343917.jpg");
 
+IMG {
+    border: 2px solid #CCE680;
+    border-radius: 10px;
+}
 }
 .jumbotron{
   background-image: url("http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png");
