@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.3.0/js/material.min.js">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.3.0/js/ripples.min.js">
   <link rel="stylesheet" href="style.css">
+  <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js'></script>
   <title>South Africa</title>
 </head>
   <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
@@ -33,7 +34,17 @@
 </p>
 </div>
 
-<a href="olympics.html" class="btn btn-lg btn-primary">Anish</a>
+<script>
+var showImg = false;
+  $scope.showImg = function(){
+    var showImg = true;
+  }
+  
+</script>
+
+<a href="olympics.html" class="btn btn-lg btn-primary" ng-click='showImg()'>Anish</a>
+
+<img src='http://wac.450f.edgecastcdn.net/80450F/thefw.com/files/2013/05/tumblr-lifethrugifs.gif' ng-show='{{showImg}}==true'>
 
 </body>   
 </html>
