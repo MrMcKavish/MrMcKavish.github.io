@@ -38,11 +38,12 @@
 var showImg = false;
   $scope.showImg = function(){
     var showImg = true;
+    document.getElementById('monkeh').style.visibility = 'hidden'
   }
   
 </script>
 
-<a href="olympics.html" class="btn btn-lg btn-primary" ng-click='showImg()'>Anish</a>
+<a href="olympics.html" class="btn btn-lg btn-primary" ng-click='showImg()' id='monkeh'>Shray --></a>
 
 <img src='http://wac.450f.edgecastcdn.net/80450F/thefw.com/files/2013/05/tumblr-lifethrugifs.gif' ng-show='{{showImg}}==true'>
 
