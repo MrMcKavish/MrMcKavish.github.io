@@ -38,12 +38,12 @@ div {
 
 div img {
     display: inline-block;
-    width: 100px;
+    width: 200px;
     height: 100px;
 }
 
 div:after {
     content: '';
     display: inline-block;
-    width: 100%;
+    width: 200%;
 }
