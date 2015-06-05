@@ -44,7 +44,8 @@ div img {
     display: inline-block;
     width: 200px;
     height: 300px;
-    right: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 div:after {
