@@ -72,3 +72,7 @@ noodle:after {
     display: inline-block;
     width: 75%;
 }
+
+#images {
+    white-space: nowrap;
+}
