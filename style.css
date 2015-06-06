@@ -54,3 +54,21 @@ div:after {
     display: inline-block;
     width: 75%;
 }
+
+noodle {
+    text-align: justify;
+}
+
+noodle img {
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+noodle:after {
+    content: '';
+    display: inline-block;
+    width: 75%;
+}
