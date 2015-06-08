@@ -1,5 +1,6 @@
 body{
-
+background-image: url("http://pds.exblog.jp/pds/1/200608/01/41/d0076741_12343917.jpg");
+background-size: cover;
 nav {
   background-color: #fff;
   border: 5px solid #dedede;
