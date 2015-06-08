@@ -95,9 +95,8 @@ nav {
               }
 background-image: url("http://pds.exblog.jp/pds/1/200608/01/41/d0076741_12343917.jpg");
 background-size: cover;
-<!-- another backgroun we could use: http://orig05.deviantart.net/2e8a/f/2007/092/b/e/the_nature_of_south_africa_by_hmsdexter.jpg  -->
-
 }
+
 .jumbotron{
   background-image: url("http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png");
   background-size: cover;
@@ -165,27 +164,6 @@ noodle:after {
     display: inline-block;
     width: 75%;
 
-h1 {
-    text-align: center;
-}
-h2 {
-    text-align: center;
-}
-h3 {
-    text-align: center;
-}
-h1 {color: #A31919}
-h1{font-family: "comicsansms";}
-h2 {color: #FFFFD1}
-h2{font-family: "comicsansms";}
-h3 {color:red}
-h3{font-family: "helvetica";}
-h4 {color:#E6B800}
-h4{font-family: "helvetica";}
-h4{font-size: 17px}
-a {color: #FFFFAD}
-h5 {color: #FFCCFF}
-h5 {font-family: "Calibri";}
 
 
 }
