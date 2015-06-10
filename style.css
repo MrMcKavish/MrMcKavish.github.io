@@ -11,7 +11,7 @@ background-size: cover;
 }
 #second {
     width: 200px;
-    float: left;
+    float: right;
     height: 300px;
     background-color: green;
 }
