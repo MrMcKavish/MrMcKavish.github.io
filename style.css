@@ -2,6 +2,30 @@ body{
 background-image: url("http://pds.exblog.jp/pds/1/200608/01/41/d0076741_12343917.jpg");
 background-size: cover;
 }
+#header {
+    width: 100%;
+    background-color: red;
+    height: 30px;
+}
+
+#container {
+    width: 300px;
+    background-color: #ffcc33;
+    margin: auto;
+}
+#first {
+    width: 100px;
+    float: left;
+    height: 300px;
+        background-color: blue;
+}
+#second {
+    width: 200px;
+    float: left;
+    height: 300px;
+    background-color: green;
+}
+
 nav {
   background-color: #fff;
   border: 5px solid #dedede;
