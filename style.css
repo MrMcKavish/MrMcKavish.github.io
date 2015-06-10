@@ -3,6 +3,12 @@ background-image: url("http://pds.exblog.jp/pds/1/200608/01/41/d0076741_12343917
 background-size: cover;
 }
 
+#container {
+    width: 300px;
+    background-color: #ffcc33;
+    margin: auto;
+}
+
 #first {
     width: 100px;
     float: left;
